@@ -1,5 +1,4 @@
 # hangman
-Hangman Game
 
 Simple Hangman Game built with HTML, CSS and Javascript.
 
